@@ -44,4 +44,5 @@ body{
 .instruct{
     font-family: "Poppins", serif;
     font-size: clamp(0.5rem, 4vw, 1rem);
+    align-self: center;
 }
